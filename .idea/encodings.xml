@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zl-videoShare-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zl-videoShare-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zl-videoShare-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zl-videoShare-dao/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zl-videoShare-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zl-videoShare-service/src/main/resources" charset="UTF-8" />
   </component>
